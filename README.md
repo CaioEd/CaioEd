@@ -2,7 +2,7 @@
 I am a Beginner front-end developer from Brazil.
 <br>
 🔭 Working on multiple front-end projects using HTML, CSS and JavaScript.
-
+<br>
 <div>
   <a href="https://github.com/CaioEd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioEd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
