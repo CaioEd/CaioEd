@@ -1,7 +1,7 @@
 <h1> Hello World 👋 I'm Caio </h1>
 I am a Beginner front-end developer from Brazil.
 <br>
-🔭 Working on multiple front-end projects using HTML, CSS and JavaScript.
+🔭 Working on multiple front-end projects using HTML, CSS, JavaScript and React.
 
 <div style="display: inline">
   <a href="https://github.com/CaioEd">
