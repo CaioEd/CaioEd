@@ -1,7 +1,7 @@
-<h1> Hello World 👋 I'm Caio </h1>
-I am a developer from Brazil.
+
+Developer from Brazil.
 <br>
-🔭 Working on multiple projects using HTML, CSS, JavaScript, React, Python and Go.
+🔭 Working on multiple projects.
 
 <div style="display: inline">
   <a href="https://github.com/CaioEd">
