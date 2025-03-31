@@ -6,7 +6,7 @@ Developer from Brazil.
 <div style="display: inline">
   <a href="https://github.com/CaioEd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioEd&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEd&layout=donut&theme=dracul"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEd&layout=donut&theme=dracula"/>
   
 </div>
  
