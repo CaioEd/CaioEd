@@ -3,11 +3,7 @@ Developer from Brazil.
 <br>
 🔭 Working on multiple projects.
 
-<div style="display: inline">
-  <a href="https://github.com/CaioEd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioEd&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </a>
-  
+<div style="display: inline">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CaioEd" />
   </a>
