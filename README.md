@@ -1,7 +1,7 @@
 
 Developer from Brazil.
 <br>
-🔭 Working on multiple projects.
+🔭 Working on multiple projects
 
 <div style="display: inline">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
