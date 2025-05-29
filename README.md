@@ -5,11 +5,11 @@ Developer from Brazil.
 
 <div style="display: inline">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CaioEd&cache_seconds=1800" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CaioEd&cache_seconds=60" />
   </a>
   
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioEd&layout=compact&langs_count=8&card_width=300" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioEd&layout=compact&langs_count=8&card_width=300&cache_seconds=60" />
   </a>
   
 </div>
