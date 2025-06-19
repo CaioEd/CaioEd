@@ -16,6 +16,6 @@ Developer from Brazil.
  
 <p align="letf" style="margint-top: 1rem;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,git,docker" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,ts,nodejs,tailwind,go,mysql,docker,git" />
   </a>
 </p>
