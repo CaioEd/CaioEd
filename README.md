@@ -4,6 +4,7 @@ About Me
 
 Technologies I work with:
 
+<hr/>
  
 <p align="letf" style="margint-top: 1rem;">
   <a href="https://skillicons.dev">
