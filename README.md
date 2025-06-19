@@ -14,7 +14,7 @@ Developer from Brazil.
   
 </div>
  
-<p align="letf" style="margint-top: '1rem';">
+<p align="letf" style="margint-top: 1rem;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
