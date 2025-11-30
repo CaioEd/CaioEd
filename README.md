@@ -6,6 +6,6 @@ About Me
  Technologies I work with:
 <p align="letf" style="margint-top: 1rem;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,ts,nodejs,tailwind,go,mysql,docker,git" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,ts,nodejs,tailwind,java,go,mysql,docker,git" />
   </a>
 </p>
