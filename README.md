@@ -9,3 +9,5 @@ About Me
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,nextjs,ts,tailwind,java,spring,go,docker" />
   </a>
 </p>
+
+Check my Portfolio and projects here: <a href="https://caio-portfolio-2027.vercel.app/">Portfolio</a>
