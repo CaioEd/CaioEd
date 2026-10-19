@@ -10,4 +10,4 @@ About Me
   </a>
 </p>
 
-Check my Portfolio and projects here: <a href="https://caio-portfolio-2027.vercel.app/">Portfolio</a>
+Check my Portfolio and projects here: <a target="_blank" href="https://caio-portfolio-2027.vercel.app/">Portfolio</a>
